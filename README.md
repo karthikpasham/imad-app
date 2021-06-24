@@ -1,3 +1,0 @@
-# imad-app
-
-workspace.
